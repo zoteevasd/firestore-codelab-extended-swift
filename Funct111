@@ -1,0 +1,4 @@
+var names: Set = ["David", "Susan", "Robert", "Angy"]
+for name in names.sorted() {
+   print("\(name)")
+}
